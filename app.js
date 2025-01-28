@@ -1,5 +1,5 @@
 
-
+/* add your code here */
 document.addEventListener('DOMContentLoaded', () => {
     const stocksData = JSON.parse(stockContent); // Ensure stockContent is defined
     const userData = JSON.parse(userContent);    // Ensure userContent is defined
@@ -120,5 +120,4 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
     }
-});/* add your code here */
-
+});
